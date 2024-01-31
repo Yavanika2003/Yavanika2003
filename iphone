@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iPhone - Latest Model</title>
+    <style>
+        /* Add your custom styles here */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+
+        section {
+            padding: 2rem;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #333;
+            color: #fff;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>iPhone - Latest Model</h1>
+    </header>
+
+    <section>
+        <img src="iphone_image.jpg" alt="iPhone Image">
+
+        <h2>Key Features</h2>
+        <ul>
+            <li>Stunning Retina Display: Experience vibrant visuals with our high-resolution screen.</li>
+            <li>Pro-grade Camera System: Capture professional-quality photos and 4K videos.</li>
+            <li>A14 Bionic Chip: Enjoy lightning-fast performance and smooth multitasking.</li>
+            <li>All-Day Battery Life: Stay connected with our long-lasting battery.</li>
+        </ul>
+
+        <h2>Why Choose iPhone?</h2>
+        <ol>
+            <li>Innovative Design: Sleek aesthetics combined with premium build quality.</li>
+            <li>Privacy Features: Advanced security and privacy settings to protect your data.</li>
+            <li>App Ecosystem: Access a vast range of apps and services on the App Store.</li>
+        </ol>
+
+        <p>Get the latest iPhone now and elevate your mobile experience!</p>
+        <a href="#purchase-section">Order Now</a>
+    </section>
+
+    <footer>
+        &copy; 2024 Apple Inc.
+    </footer>
+
+</body>
+
+</html>
